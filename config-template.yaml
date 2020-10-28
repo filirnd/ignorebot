@@ -1,0 +1,7 @@
+server:
+  token: "here-your-token"
+  banterms:
+    - terms
+    - to
+    - bans
+    - composite too
